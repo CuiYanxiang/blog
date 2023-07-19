@@ -17,4 +17,4 @@ includeFilter in SiteKeys.makeSite := "*.html" | "*.css" | "*.png" | "*.jpg" | "
 
 ghpages.settings
 
-git.remoteRepo := "https://github.com/jasonqu/bootlogDemo.git"
+git.remoteRepo := "https://github.com/CuiYanxiang/blog.git"
